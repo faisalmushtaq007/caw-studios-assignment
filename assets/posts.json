@@ -1,0 +1,104 @@
+{
+    "posts": [
+        {
+            "category": "Diet",
+            "author_username": "rohit.shetty12",
+            "author_image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZSUyMHBpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "position": "Diagnosed Recently",
+            "type": "question",
+            "title": "What are the signs and symptoms of skin cancer?",
+            "description": "I’ve been facing a few possibble symptoms of skin cancer. I’ve googled the possibilities but i thought i’d ask the community instead.",
+            "location": "Peninsula Park, Andheri, Mumbai",
+            "no_of_likes": 24,
+            "no_of_comments": 24,
+            "created_at": "Tue, apr 23, 2019 | 7 pm IST"
+        },
+        {
+            "category": "Diet",
+            "author_username": "priya321",
+            "author_image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZSUyMHBpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "position": "Diagnosed Recently",
+            "type": "post",
+            "title": "",
+            "description": "My husband has his 3 days transplant assessment in Newcastle next month, strange mix of emotions. For those that have been through this how long did it take following assessment was it until you were...",
+            "location": "Peninsula Park, Andheri, Mumbai",
+            "no_of_likes": 24,
+            "no_of_comments": 24,
+            "created_at": "Tue, apr 23, 2019 | 7 pm IST"
+        },
+        {
+            "category": "Event",
+            "author_username": "username127",
+            "author_image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2ZpbGUlMjBwaWN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "position": "Diagnosed Recently",
+            "type": "event",
+            "title": "Cancer meet at Rajeev Gandhi National Park",
+            "description": "",
+            "location": "Peninsula Park, Andheri, Mumbai",
+            "people_attending": 23,
+            "no_of_likes": 24,
+            "no_of_comments": 24,
+            "created_at": "Tue, apr 23, 2019 | 7 pm IST"
+        },
+        {
+            "category": "Lifestyle",
+            "author_username": "user987",
+            "author_image": "https://images.unsplash.com/photo-1506014739647-c231072489c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGUlMjBwaWN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "position": "Expert",
+            "type": "image",
+            "title": "",
+            "description": "Something to motivate you. #itsokayto #cancersurvivor",
+            "image": "https://images.unsplash.com/photo-1578496781985-452d4a934d50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "location": "Peninsula Park, Andheri, Mumbai",
+            "no_of_likes": 24,
+            "no_of_comments": 24,
+            "created_at": "Tue, apr 23, 2019 | 7 pm IST"
+        },
+        {
+            "category": "Diet",
+            "author_username": "username1275",
+            "author_image": "https://media.istockphoto.com/photos/close-up-portrait-of-brunette-woman-picture-id1154642632?b=1&k=20&m=1154642632&s=170667a&w=0&h=V8Ny-XIX4LNjMlihi3XwVj6OuZT0dQ61vTzVxhe7Fvs=",
+            "position": "Diagnosed Recently",
+            "type": "poll",
+            
+            "title": "What’s the best Hospital in India for cancer?",
+            "description": "",
+            "polls": [
+                {
+                  "id": 1,
+                  "title": "Apollo Hospital, Bangalore",
+                  "votes": 40
+                },
+                {
+                  "id": 2,
+                  "title": "AIMMS, Delhi",
+                  "votes": 60
+                },
+                {
+                  "id": 3,
+                  "title": "Kokilaben Dhirubhai Ambani Hospital\n & Medical Research Institute, Mumbai",
+                  "votes": 103
+                }
+              ], 
+                "end_date": "2022-10-18T10:59:46.593306",
+            "votes": 203,
+            "location": "Peninsula Park, Andheri, Mumbai",
+            "no_of_likes": 24,
+            "no_of_comments": 24,
+            "created_at": "Tue, apr 23, 2019 | 7 pm IST"
+        },
+        {
+            "category": "Diet",
+            "author_username": "Member",
+            "author_image": "https://media.istockphoto.com/photos/side-view-longbeard-business-man-portrait-picture-id1074638206?b=1&k=20&m=1074638206&s=170667a&w=0&h=Plsz2gRhhTANAmsCHpjINnXU_GtaSAyFv7PlNTAe94Q=",
+            "position": "",
+            "type": "question",
+            "title": "",
+            "description": "My husband has his 3 days transplant assessment in Newcastle next month, strange mix of emotions. For those that have been through this how long did it take following assessment was it until you were...",
+            "location": "Peninsula Park, Andheri, Mumbai",
+            "no_of_likes": 24,
+            "no_of_comments": 24,
+            "created_at": "Tue, apr 23, 2019 | 7 pm IST"
+        }
+    ]
+}
